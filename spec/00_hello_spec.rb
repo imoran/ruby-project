@@ -1,4 +1,4 @@
-require '../lib/00_hello'
+require '00_hello'
 
 describe 'the hello function' do
   it 'says hello' do
